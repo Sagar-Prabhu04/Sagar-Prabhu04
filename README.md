@@ -78,7 +78,7 @@ mindset: "self-motivated, ships fast, learns faster"
 
 ## 🏆 Trophy Case
 
-<img src="https://github-profile-trophy.vercel.app/?username=sagarprabhu&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Sagar-Prabhu04&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&row=1&column=6"/>
 
 </div>
 
@@ -88,8 +88,8 @@ mindset: "self-motivated, ships fast, learns faster"
 
 ## 📊 Live Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=sagarprabhu&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&icon_color=00C2FF&title_color=00C2FF&text_color=c9d1d9" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=sagarprabhu&theme=nightowl&hide_border=true&background=0d1117&ring=00C2FF&fire=FF4B4B&currStreakLabel=00C2FF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sagar-Prabhu04&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&icon_color=00C2FF&title_color=00C2FF&text_color=c9d1d9" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=Sagar-Prabhu04&theme=nightowl&hide_border=true&background=0d1117&ring=00C2FF&fire=FF4B4B&currStreakLabel=00C2FF" height="165"/>
 
 </div>
 
@@ -99,7 +99,7 @@ mindset: "self-motivated, ships fast, learns faster"
 
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/sagarprabhu/sagarprabhu/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/Sagar-Prabhu04/Sagar-Prabhu04/output/github-contribution-grid-snake-dark.svg" />
 
 <sub>⚙️ needs a one-time GitHub Action setup — see note below</sub>
 
