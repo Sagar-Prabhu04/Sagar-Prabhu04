@@ -89,7 +89,7 @@ mindset: "self-motivated, ships fast, learns faster"
 ## 📊 Live Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=sagarprabhu&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&icon_color=00C2FF&title_color=00C2FF&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sagarprabhu&theme=nightowl&hide_border=true&background=0d1117&ring=00C2FF&fire=FF4B4B&currStreakLabel=00C2FF" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=sagarprabhu&theme=nightowl&hide_border=true&background=0d1117&ring=00C2FF&fire=FF4B4B&currStreakLabel=00C2FF" height="165"/>
 
 </div>
 
