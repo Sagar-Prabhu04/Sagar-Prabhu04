@@ -1,72 +1,74 @@
-A<div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sagar%20P&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20AI%20%2F%20ML%20%7C%20Data%20Analytics&descAlignY=58&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=260&section=header&text=SAGAR%20P&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=Python%20Engineer%20%C2%B7%20AI%20%2F%20ML%20%C2%B7%20Data%20Analytics&descAlignY=68&descAlign=50"/>
 
-<a href="https://linkedin.com/in/sagarprabhu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:sagarprabhu3010@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=sagarprabhu&style=for-the-badge&color=2c5364" alt="profile views"/>
+<a href="https://linkedin.com/in/sagarprabhu"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00C2FF&labelColor=000"/></a>
+<a href="mailto:sagarprabhu3010@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF4B4B&labelColor=000"/></a>
+<img src="https://komarev.com/ghpvc/?username=sagarprabhu&style=for-the-badge&color=0d1117&labelColor=0d1117"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=650&lines=Building+intelligent%2C+data-driven+solutions;NumPy+%7C+Pandas+%7C+Scikit-learn;Turning+data+into+decisions;Always+learning%2C+always+shipping" />
 
 </div>
 
 <br>
 
-```python
-class Sagar:
-    def __init__(self):
-        self.role = "Aspiring Python & AI Engineer"
-        self.education = "B.E. Information Science, MVJ College of Engineering (2022–2026)"
-        self.focus = ["Machine Learning", "Data Analysis", "Automation"]
-        self.currently_building = "AI-powered, data-driven solutions"
-        self.fun_fact = "learning Japanese one kanji at a time 🎌"
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=2&section=header"/>
 
-    def say_hi(self):
-        print("Thanks for stopping by — let's build something intelligent.")
+<br>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 👤 About
+
+```yaml
+name: Sagar P
+role: Aspiring Python & AI Engineer
+degree: B.E. Information Science Engineering
+college: MVJ College of Engineering, Bangalore
+timeline: 2022 - 2026
+focus:
+  - Machine Learning
+  - Data Analysis
+  - Automation & Intelligent UI
+mindset: "self-motivated, ships fast, learns faster"
 ```
 
-<br>
+</td>
+<td width="50%" valign="top">
 
-<div align="center">
+### 📡 Status
 
-## 🧠 Tech Stack
+```diff
++ currently polishing repos before upload
++ open to internships & collaborations
++ exploring gesture / voice controlled interfaces
+! learning: advanced ML model tuning
+# fun fact: learning Japanese, one kanji at a time 🎌
+```
 
-</div>
-
-<div align="center">
-
-**Languages & Querying**
-
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql&theme=dark" />
-
-**Data & Visualization**
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
-</div>
+</td>
+</tr>
+</table>
 
 <br>
 
 <div align="center">
 
-## ⚡ Core Concepts
+## 🧩 Tech Stack
 
-`Data Structures & Algorithms`&nbsp;&nbsp;•&nbsp;&nbsp;`Machine Learning Fundamentals`&nbsp;&nbsp;•&nbsp;&nbsp;`Model Evaluation`&nbsp;&nbsp;•&nbsp;&nbsp;`Data Preprocessing`
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,git,vscode&theme=dark&perline=8" />
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-## 📊 GitHub Analytics
-
-<img src="https://github-readme-stats.vercel.app/api?username=sagarprabhu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sagarprabhu&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarprabhu&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00C2FF&labelColor=000"/>
+<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00C2FF&labelColor=000"/>
+<img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=F2C811&labelColor=000"/>
+<img src="https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=E97627&labelColor=000"/>
+<img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=217346&labelColor=000"/>
 
 </div>
 
@@ -74,12 +76,52 @@ class Sagar:
 
 <div align="center">
 
-## 🌱 Currently Cooking
+## 🏆 Trophy Case
+
+<img src="https://github-profile-trophy.vercel.app/?username=sagarprabhu&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&row=1&column=6"/>
 
 </div>
 
-> 🔧 Prepping repos for upload — coming soon:
-> **Modern Restaurant Website** (HTML/CSS/JS) · **AI-Powered Smart UI: Hand Gestures, Virtual Mouse & Keyboard** (Python, MediaPipe, OpenCV) · **Diabetes Predictor** (Python, Flask, Random Forest)
+<br>
+
+<div align="center">
+
+## 📊 Live Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=sagarprabhu&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&icon_color=00C2FF&title_color=00C2FF&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sagarprabhu&theme=nightowl&hide_border=true&background=0d1117&ring=00C2FF&fire=FF4B4B&currStreakLabel=00C2FF" height="165"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/sagarprabhu/sagarprabhu/output/github-contribution-grid-snake-dark.svg" />
+
+<sub>⚙️ needs a one-time GitHub Action setup — see note below</sub>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 🌱 In the Pipeline
+
+</div>
+
+<div align="center">
+
+| Project | Stack | Status |
+|---|---|---|
+| 🍽️ Modern Restaurant Website | HTML · CSS · JS | 🔧 uploading soon |
+| 🖐️ AI Smart UI — Hand Gestures, Virtual Mouse & Keyboard | Python · MediaPipe · OpenCV | 🔧 uploading soon |
+| 🩺 Diabetes Predictor | Python · Flask · Random Forest | 🔧 uploading soon |
+
+</div>
 
 <br>
 
@@ -87,9 +129,9 @@ class Sagar:
 
 ## 🏅 Certifications
 
-<img src="https://img.shields.io/badge/Udemy-Full_Stack_Development-A435F0?style=flat-square&logo=udemy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deloitte_Australia-Data_Analytics-86BC25?style=flat-square&logo=deloitte&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tata-GenAI_Powered_Data_Analytics-3F51B5?style=flat-square"/>
+<img src="https://img.shields.io/badge/Udemy-Full_Stack_Development-000000?style=for-the-badge&logo=udemy&logoColor=A435F0&labelColor=000"/>
+<img src="https://img.shields.io/badge/Deloitte_Australia-Data_Analytics-000000?style=for-the-badge&logo=deloitte&logoColor=86BC25&labelColor=000"/>
+<img src="https://img.shields.io/badge/Tata-GenAI_Powered_Analytics-000000?style=for-the-badge&labelColor=000&color=3F51B5"/>
 
 </div>
 
@@ -99,10 +141,10 @@ class Sagar:
 
 ## 🗣️ Languages Spoken
 
-English&nbsp;•&nbsp;Kannada&nbsp;•&nbsp;Hindi&nbsp;•&nbsp;Telugu&nbsp;•&nbsp;Basic Japanese
+English&nbsp;·&nbsp;Kannada&nbsp;·&nbsp;Hindi&nbsp;·&nbsp;Telugu&nbsp;·&nbsp;Basic Japanese
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=140&section=footer"/>
