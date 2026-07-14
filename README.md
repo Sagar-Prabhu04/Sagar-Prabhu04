@@ -1,74 +1,108 @@
-<h1 align="center">Hi 👋, I'm Sagar P</h1>
-<h3 align="center">Aspiring Python & AI Enthusiast | Data-Driven Problem Solver</h3>
+A<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/sagarprabhu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sagarprabhu3010@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sagar%20P&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20AI%20%2F%20ML%20%7C%20Data%20Analytics&descAlignY=58&descAlign=50"/>
 
----
+<a href="https://linkedin.com/in/sagarprabhu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sagarprabhu3010@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=sagarprabhu&style=for-the-badge&color=2c5364" alt="profile views"/>
 
-### 🚀 About Me
+</div>
 
-- 🎓 Pursuing **B.E. in Information Science and Engineering** at MVJ College of Engineering, Bangalore (2022–2026)
-- 🐍 Foundational knowledge in **Python, Machine Learning algorithms, and Data Analysis**
-- 📊 Hands-on experience with **NumPy, Pandas**, and basic model evaluation techniques
-- 🌱 Self-motivated learner with a keen interest in building **intelligent and data-driven solutions**
-- 🤝 Strong analytical, problem-solving, and communication skills; enjoy collaborating in team environments
-- 📌 *Note:* Project repositories are being added progressively — stay tuned!
+<br>
 
----
+```python
+class Sagar:
+    def __init__(self):
+        self.role = "Aspiring Python & AI Engineer"
+        self.education = "B.E. Information Science, MVJ College of Engineering (2022–2026)"
+        self.focus = ["Machine Learning", "Data Analysis", "Automation"]
+        self.currently_building = "AI-powered, data-driven solutions"
+        self.fun_fact = "learning Japanese one kanji at a time 🎌"
 
-### 🛠️ Skills
+    def say_hi(self):
+        print("Thanks for stopping by — let's build something intelligent.")
+```
 
-**Programming & Querying**
+<br>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<div align="center">
 
-**Data Visualization & Analysis**
+## 🧠 Tech Stack
 
-![Excel](https://img.shields.io/badge/-MS%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+</div>
 
-**Core Concepts**
+<div align="center">
 
-`Data Structures & Algorithms` · `Machine Learning Fundamentals` · `Model Evaluation`
+**Languages & Querying**
 
-**Soft Skills**
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql&theme=dark" />
 
-`Leadership` · `Public Speaking` · `Time Management`
+**Data & Visualization**
 
----
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
-### 🌐 Languages Spoken
+</div>
 
-English • Kannada • Hindi • Telugu • Basic Japanese
+<br>
 
----
+<div align="center">
 
-### 📜 Certifications
+## ⚡ Core Concepts
 
-- 🏅 **Full Stack Development** — Udemy (60+ hours of fundamental learning)
-- 🏅 **Data Analytics Completion Certificate** — Deloitte Australia
-- 🏅 **GenAI Powered Data Analytics** — Tata
+`Data Structures & Algorithms`&nbsp;&nbsp;•&nbsp;&nbsp;`Machine Learning Fundamentals`&nbsp;&nbsp;•&nbsp;&nbsp;`Model Evaluation`&nbsp;&nbsp;•&nbsp;&nbsp;`Data Preprocessing`
 
----
+</div>
 
-### 📈 GitHub Stats
+<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagarprabhu&show_icons=true&theme=default" alt="Sagar's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagarprabhu" alt="Sagar's Streak" height="165"/>
-</p>
+<div align="center">
 
----
+## 📊 GitHub Analytics
 
-<p align="center"><i>📌 Upcoming projects to be added: Modern Restaurant Website, AI-Powered Smart UI (Hand Gestures/Virtual Mouse/Keyboard), Diabetes Predictor Using ML</i></p>
+<img src="https://github-readme-stats.vercel.app/api?username=sagarprabhu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sagarprabhu&theme=tokyonight&hide_border=true" height="165"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarprabhu&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 🌱 Currently Cooking
+
+</div>
+
+> 🔧 Prepping repos for upload — coming soon:
+> **Modern Restaurant Website** (HTML/CSS/JS) · **AI-Powered Smart UI: Hand Gestures, Virtual Mouse & Keyboard** (Python, MediaPipe, OpenCV) · **Diabetes Predictor** (Python, Flask, Random Forest)
+
+<br>
+
+<div align="center">
+
+## 🏅 Certifications
+
+<img src="https://img.shields.io/badge/Udemy-Full_Stack_Development-A435F0?style=flat-square&logo=udemy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deloitte_Australia-Data_Analytics-86BC25?style=flat-square&logo=deloitte&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tata-GenAI_Powered_Data_Analytics-3F51B5?style=flat-square"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 🗣️ Languages Spoken
+
+English&nbsp;•&nbsp;Kannada&nbsp;•&nbsp;Hindi&nbsp;•&nbsp;Telugu&nbsp;•&nbsp;Basic Japanese
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
