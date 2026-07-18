@@ -4,7 +4,7 @@
 
 <a href="https://linkedin.com/in/sagarprabhu"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00C2FF&labelColor=000"/></a>
 <a href="mailto:sagarprabhu3010@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF4B4B&labelColor=000"/></a>
-<img src="https://komarev.com/ghpvc/?username=sagarprabhu&style=for-the-badge&color=0d1117&labelColor=0d1117"/>
+<img src="https://komarev.com/ghpvc/?username=Sagar-Prabhu04&style=for-the-badge&color=0d1117&labelColor=0d1117"/>
 
 <br><br>
 
